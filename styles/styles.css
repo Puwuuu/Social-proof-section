@@ -9,7 +9,7 @@ body {
 }
 
 body {
-  background-image: url(images/bg-pattern-bottom-desktop.svg);
+  background-image: url("https://raw.githubusercontent.com/Puwuuu/Frontend.Mentor-social-proof-section-master/019f03700a1d0f4a512efc3b116bb5a39ce7c580/images/bg-pattern-bottom-desktop.svg");
 }
 
 .container {
